@@ -1,0 +1,184 @@
+{
+  "id": "20287",
+  "partner_order_id": "15/03/2021-001",
+  "skipcart_quote_id": null,
+  "market": "",
+  "order_total": "40.00",
+  "tip": "10.00",
+  "cold_chain_compliance": "",
+  "contains_alcohol": "",
+  "parent_partner_order_id": "",
+  "priority": "Urgent",
+  "noofbags": 0,
+  "minimum_age": null,
+  "customer_sign": "yes",
+  "paymentmethod": {
+    "payment_type": null,
+    "quote_rate": null,
+    "quote_id": null
+  },
+  "merchant": {
+    "name": "ESM2",
+    "code": "ESM2",
+    "location_type": "Store",
+    "location_id": "Eatsome2",
+    "address": {
+      "address1": "1350 Concourse Avenue",
+      "address2": "Behind Atm",
+      "city": "Memphis",
+      "state": "TN",
+      "zipcode": "38104",
+      "phone": "2012673412",
+      "phone_prefix": "+1",
+      "country_code": "US",
+      "latitude": "35.1520123",
+      "longitude": "-90.015532"
+    },
+    "notes": [
+      {
+        "key": "Pick Up Note",
+        "value": "arrived at store then pick order from store and deliver to customer.check if it contain alcohol"
+      }
+    ]
+  },
+  "customer": {
+    "id": "",
+    "first_Name": "Viraj",
+    "last_Name": "Chavan",
+    "phone": "2012673412",
+    "email": "virajchavan@gmail.com",
+    "phone_prefix": "+1"
+  },
+  "delivery_information": {
+    "customer": {
+      "first_Name": "Viraj",
+      "last_Name": "Chavan"
+    },
+    "address": {
+      "address2": "left Corner",
+      "address1": "145 N Watkins St",
+      "city": "Memphis",
+      "state": "TN",
+      "zipcode": "38104",
+      "country_code": "US",
+      "latitude": "35.1426695",
+      "longitude": "-90.0139726"
+    },
+    "delivery_window": {
+      "start_at": "2021-03-15T06:43:00Z",
+      "duration": "60",
+      "end_at": "2021-03-15T07:43:00Z",
+      "time_zone": "India Standard Time"
+    },
+    "notes": [
+      {
+        "key": "Delivery Information",
+        "value": "arrived at store then pick order from store and deliver to customer.check if it contain alcohol"
+      }
+    ]
+  },
+  "driver": {
+    "id": "0",
+    "type": 0,
+    "first_name": null,
+    "last_name": null,
+    "phone": null,
+    "profile_id": null,
+    "profile_pic": null,
+    "car_type": null,
+    "car_make": null,
+    "car_model": null,
+    "car_color": null,
+    "license_plate_number": null
+  },
+  "status": {
+    "name": "new"
+  },
+  "total_records": 1,
+  "last_event": {
+    "eta": "2020-12-10T04:28:20Z",
+    "location": {
+      "lat": null,
+      "lng": null
+    },
+    "tracking_url": "https://skipcartdevtrack.azurewebsites.net/?t=20287",
+    "fee": "9.95",
+    "return_reason": "ProblemInAddress",
+    "event_status": {
+      "name": "schedule_failed"
+    }
+  },
+  "billing_address": {
+    "first_name": "ESM2",
+    "last_name": null,
+    "zipcode": "38104",
+    "state": "TN",
+    "city": "Memphis",
+    "country_code": "US",
+    "address1": "145 N Watkins St",
+    "address2": "left Corner"
+  },
+  "pickup_address": null,
+  "dropoff_address": null,
+  "cancellation_fee": "",
+  "return_notes": [],
+  "BillingDeliveryFee": 0,
+  "BillingReturnFee": 0,
+  "BillingCancellationFee": 0,
+  "BillingTotalFee": 0,
+  "BillingMileageFee": 0,
+  "BillingTip": 0,
+  "BrandName": null,
+  "PickupItems": [],
+  "CustomerProxyNumber": "Number not available",
+  "CustPhonePrefix": "+1",
+  "ProxyNumberValidUntil": null,
+  "_deliveryproof": null,
+  "FirstName": null,
+  "LastName": null,
+  "Type": null,
+  "Make": null,
+  "Model": null,
+  "Color": null,
+  "LicensePlateNumber": null,
+  "RegionName": "Crosstown",
+  "StoreName": "Eatsome2",
+  "Area": [
+    {
+      "areaid": "10449",
+      "areaname": "TowerAve",
+      "description": null,
+      "areatype": null,
+      "areazip": null,
+      "bookingslots": null,
+      "regionid": null,
+      "CountryCode": null,
+      "NewDriverflow": false
+    }
+  ],
+  "PostTipReceived": "",
+  "PostTipPaid": "",
+  "actual_delivered_timestamp": null,
+  "customer_unavailable_workflow": "0",
+  "customer_refused_deliveryWorkflow": "0",
+  "ContactLessDelivery": true,
+  "is_cold_chain_compliance": false,
+  "is_contains_alcohol": false,
+  "is_priority": true,
+  "contactless_order": true,
+  "DelWindowStartString_lc": "12/10/2020",
+  "DelWindowStartString_dt": "10:30 AM",
+  "DelWindowEndString_dt": "11:30 AM",
+  "proxydate_lc": "Number not available",
+  "proxydatetime_lc": "",
+  "order_details": [
+    {
+      "description": "paneer",
+      "quantity": 3
+    },
+    {
+      "description": "curd",
+      "quantity": 2
+    }
+  ]
+}
